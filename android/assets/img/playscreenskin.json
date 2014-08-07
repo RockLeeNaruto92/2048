@@ -1,0 +1,42 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: { 
+		default-font: { file: default.fnt },
+		score-font: {file: font.fnt } 
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		btn-restart: {
+			up: "2",
+			down: "4",
+			checked: "4"
+		},
+		btn-back: {
+			up: "8",
+			down: "16",
+			checked: "16"
+		},
+		btn-resume: {
+			up: "2",
+			down: "4",
+			checked: "4"
+		}, 
+		btn-quit: {
+			up: "8",
+			down: "16",
+			checked: "16"
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: { 
+		default: {
+			titleFont: default-font,
+			background: background
+		},			
+		dlg-gameover: {
+			titleFont: default-font,
+			background: background
+		},
+		dlg-pause: {
+			titleFont: default-font,
+			background: background
+		}
+	}
+}

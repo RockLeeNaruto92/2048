@@ -1,0 +1,75 @@
+
+startscreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 203
+  size: 512, 288
+  orig: 512, 288
+  offset: 0, 0
+  index: -1
+gamelayout
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+setting_onclick
+  rotate: false
+  xy: 515, 441
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+about_onclick
+  rotate: false
+  xy: 203, 151
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+setting_normal
+  rotate: false
+  xy: 515, 389
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+start_normal
+  rotate: false
+  xy: 617, 441
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+highscore_normal
+  rotate: false
+  xy: 203, 99
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+highscore_onclick
+  rotate: false
+  xy: 305, 151
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+about_normal
+  rotate: false
+  xy: 515, 337
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+start_onclick
+  rotate: false
+  xy: 617, 389
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1

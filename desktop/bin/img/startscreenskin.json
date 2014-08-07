@@ -1,0 +1,28 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		btn-start:{
+			up: start_normal,
+			down: start_onclick,
+			checked: start_onclick
+		},
+		
+		btn-setting:{
+			up: setting_normal,
+			down: setting_onclick,
+			checked: setting_onclick
+		},
+		
+		btn-about:{
+			up: about_normal,
+			down: about_onclick,
+			checked: about_onclick
+		},
+		
+		btn-highscore:{
+			up: highscore_normal,
+			down: highscore_onclick,
+			checked: highscore_onclick
+		}
+		
+	}
+}
